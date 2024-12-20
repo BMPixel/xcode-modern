@@ -1,0 +1,21 @@
+{
+  "name": "xcode-modern",
+  "displayName": "xcode-modern",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XCode Modern",
+        "uiTheme": "vs",
+        "path": "./themes/XCode Modern-color-theme.json"
+      }
+    ]
+  }
+}
