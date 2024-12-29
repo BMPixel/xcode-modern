@@ -1,0 +1,10 @@
+{
+  "src": "./output_svgs",
+  "dist": "./themes",
+  "fontName": "custom",
+  "startUnicode": 1,
+  "svgicons2svgfont": {
+    "fontHeight": 50,
+    "normalize": true
+  }
+}

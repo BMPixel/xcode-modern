@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "XCode Modern",
+        "label": "XCode Modern Light",
         "uiTheme": "vs",
-        "path": "./themes/XCode Modern-color-theme.json"
+        "path": "./themes/XCode Modern Light-color-theme.json"
+      },
+      {
+        "label": "XCode Modern Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XCode Modern Dark-color-theme.json"
       }
     ]
   }

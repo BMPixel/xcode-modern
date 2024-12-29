@@ -1,0 +1,421 @@
+{
+	"fonts": [
+		{
+			"id": "fluent-icons",
+			"src": [
+				{
+					"path": "./fluent-icons.ttf",
+					"format": "truetype"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		},
+		{
+			"id": "custom-icons",
+			"src": [
+				{
+					"path": "./custom.ttf",
+					"format": "truetype"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+
+	],
+	"iconDefinitions": {
+		"files": {
+			"fontCharacter": "\\13",
+			"fontId": "custom-icons"
+		},
+		"search": {
+			"fontCharacter": "\\25",
+			"fontId": "custom-icons"
+		},
+		"source-control": {
+			"fontCharacter": "\\2712",
+			"fontId": "fluent-icons"
+		},
+		"git-branch": {
+			"fontCharacter": "\\2712",
+			"fontId": "fluent-icons"
+		},
+		"debug-alt": {
+			"fontCharacter": "\\2713",
+			"fontId": "fluent-icons"
+		},
+		"extensions": {
+			"fontCharacter": "\\12",
+			"fontId": "custom-icons"
+		},
+		"account": {
+			"fontCharacter": "\\1",
+			"fontId": "custom-icons"
+		},
+		"settings-gear": {
+			"fontCharacter": "\\2716",
+			"fontId": "fluent-icons"
+		},
+		"new-file": {
+			"fontCharacter": "\\1E",
+			"fontId": "custom-icons"
+		},
+		"new-folder": {
+			"fontCharacter": "\\1F",
+			"fontId": "custom-icons"
+		},
+		"refresh": {
+			"fontCharacter": "\\22",
+			"fontId": "custom-icons"
+		},
+		"collapse-all": {
+			"fontCharacter": "\\D",
+			"fontId": "custom-icons"
+		},
+		"editor-layout": {
+			"fontCharacter": "\\11",
+			"fontId": "custom-icons"
+		},
+		"save": {
+			"fontCharacter": "\\24",
+			"fontId": "custom-icons"
+		},
+		"save-all": {
+			"fontCharacter": "\\23",
+			"fontId": "custom-icons"
+		},
+		"error": {
+			"fontCharacter": "\\2720",
+			"fontId": "fluent-icons"
+		},
+		"split-horizontal": {
+			"fontCharacter": "\\28",
+			"fontId": "custom-icons"
+		},
+		"split-vertical": {
+			"fontCharacter": "\\29",
+			"fontId": "custom-icons"
+		},
+		"compare-changes": {
+			"fontCharacter": "\\2721",
+			"fontId": "fluent-icons"
+		},
+		"clear-all": {
+			"fontCharacter": "\\2722",
+			"fontId": "fluent-icons"
+		},
+		"warning": {
+			"fontCharacter": "\\32",
+			"fontId": "custom-icons"
+		},
+		"bell": {
+			"fontCharacter": "\\2724",
+			"fontId": "fluent-icons"
+		},
+		"sync": {
+			"fontCharacter": "\\2F",
+			"fontId": "custom-icons"
+		},
+		"light-bulb": {
+			"fontCharacter": "\\1D",
+			"fontId": "custom-icons"
+		},
+		"filter": {
+			"fontCharacter": "\\14",
+			"fontId": "custom-icons"
+		},
+		"gear": {
+			"fontCharacter": "\\15",
+			"fontId": "custom-icons"
+		},
+		"debug-start": {
+			"fontCharacter": "\\2729",
+			"fontId": "fluent-icons"
+		},
+		"debug-stop": {
+			"fontCharacter": "\\272a",
+			"fontId": "fluent-icons"
+		},
+		"debug-pause": {
+			"fontCharacter": "\\409",
+			"fontId": "fluent-icons"
+		},
+		"debug-restart": {
+			"fontCharacter": "\\272b",
+			"fontId": "fluent-icons"
+		},
+		"debug-disconnect": {
+			"fontCharacter": "\\404",
+			"fontId": "fluent-icons"
+		},
+		"debug-step-into": {
+			"fontCharacter": "\\405",
+			"fontId": "fluent-icons"
+		},
+		"debug-step-out": {
+			"fontCharacter": "\\406",
+			"fontId": "fluent-icons"
+		},
+		"debug-step-back": {
+			"fontCharacter": "\\407",
+			"fontId": "fluent-icons"
+		},
+		"debug-step-over": {
+			"fontCharacter": "\\408",
+			"fontId": "fluent-icons"
+		},
+		"debug-continue": {
+			"fontCharacter": "\\40a",
+			"fontId": "fluent-icons"
+		},
+		"trash": {
+			"fontCharacter": "\\31",
+			"fontId": "custom-icons"
+		},
+		"add": {
+			"fontCharacter": "\\2",
+			"fontId": "custom-icons"
+		},
+		"close-all": {
+			"fontCharacter": "\\40e",
+			"fontId": "fluent-icons"
+		},
+		"activate-breakpoints": {
+			"fontCharacter": "\\40f",
+			"fontId": "fluent-icons"
+		},
+		"remote-explorer": {
+			"fontCharacter": "\\0410",
+			"fontId": "fluent-icons"
+		},
+		"symbol-function": {
+			"fontCharacter": "\\0411",
+			"fontId": "fluent-icons"
+		},
+		"symbol-constructor": {
+			"fontCharacter": "\\0411",
+			"fontId": "fluent-icons"
+		},
+		"remote": {
+			"fontCharacter": "\\0414",
+			"fontId": "fluent-icons"
+		},
+		"live-share": {
+			"fontCharacter": "\\0415",
+			"fontId": "fluent-icons"
+		},
+		"github": {
+			"fontCharacter": "\\0416",
+			"fontId": "fluent-icons"
+		},
+		"github-alt": {
+			"fontCharacter": "\\0416",
+			"fontId": "fluent-icons"
+		},
+		"github-inverted": {
+			"fontCharacter": "\\0416",
+			"fontId": "fluent-icons"
+		},
+		"symbol-key": {
+			"fontCharacter": "\\0418",
+			"fontId": "fluent-icons"
+		},
+		"symbol-class": {
+			"fontCharacter": "\\0419",
+			"fontId": "fluent-icons"
+		},
+		"symbol-keyword": {
+			"fontCharacter": "\\041a",
+			"fontId": "fluent-icons"
+		},
+		"symbol-structure": {
+			"fontCharacter": "\\041b",
+			"fontId": "fluent-icons"
+		},
+		"symbol-struct": {
+			"fontCharacter": "\\041b",
+			"fontId": "fluent-icons"
+		},
+		"symbol-snippet": {
+			"fontCharacter": "\\041c",
+			"fontId": "fluent-icons"
+		},
+		"symbol-string": {
+			"fontCharacter": "\\041d",
+			"fontId": "fluent-icons"
+		},
+		"symbol-event": {
+			"fontCharacter": "\\041e",
+			"fontId": "fluent-icons"
+		},
+		"symbol-namespace": {
+			"fontCharacter": "\\041f",
+			"fontId": "fluent-icons"
+		},
+		"symbol-module": {
+			"fontCharacter": "\\041f",
+			"fontId": "fluent-icons"
+		},
+		"symbol-package": {
+			"fontCharacter": "\\041f",
+			"fontId": "fluent-icons"
+		},
+		"symbol-object": {
+			"fontCharacter": "\\041f",
+			"fontId": "fluent-icons"
+		},
+		"symbol-variable": {
+			"fontCharacter": "\\0420",
+			"fontId": "fluent-icons"
+		},
+		"symbol-operator": {
+			"fontCharacter": "\\0421",
+			"fontId": "fluent-icons"
+		},
+		"symbol-numeric": {
+			"fontCharacter": "\\0422",
+			"fontId": "fluent-icons"
+		},
+		"symbol-enum": {
+			"fontCharacter": "\\0423",
+			"fontId": "fluent-icons"
+		},
+		"symbol-value": {
+			"fontCharacter": "\\0423",
+			"fontId": "fluent-icons"
+		},
+		"symbol-property": {
+			"fontCharacter": "\\0424",
+			"fontId": "fluent-icons"
+		},
+		"symbol-constant": {
+			"fontCharacter": "\\0425",
+			"fontId": "fluent-icons"
+		},
+		"symbol-parameter": {
+			"fontCharacter": "\\0426",
+			"fontId": "fluent-icons"
+		},
+		"symbol-type-parameter": {
+			"fontCharacter": "\\0426",
+			"fontId": "fluent-icons"
+		},
+		"symbol-misc": {
+			"fontCharacter": "\\0427",
+			"fontId": "fluent-icons"
+		},
+		"symbol-interface": {
+			"fontCharacter": "\\0428",
+			"fontId": "fluent-icons"
+		},
+		"symbol-field": {
+			"fontCharacter": "\\0429",
+			"fontId": "fluent-icons"
+		},
+		"symbol-file": {
+			"fontCharacter": "\\042a",
+			"fontId": "fluent-icons"
+		},
+		"symbol-boolean": {
+			"fontCharacter": "\\042b",
+			"fontId": "fluent-icons"
+		},
+		"symbol-null": {
+			"fontCharacter": "\\042b",
+			"fontId": "fluent-icons"
+		},
+		"symbol-color": {
+			"fontCharacter": "\\042c",
+			"fontId": "fluent-icons"
+		},
+		"symbol-method": {
+			"fontCharacter": "\\042d",
+			"fontId": "fluent-icons"
+		},
+		"symbol-ruler": {
+			"fontCharacter": "\\042e",
+			"fontId": "fluent-icons"
+		},
+		"symbol-enum-member": {
+			"fontCharacter": "\\042f",
+			"fontId": "fluent-icons"
+		},
+		"symbol-array": {
+			"fontCharacter": "\\0430",
+			"fontId": "fluent-icons"
+		},
+		"go-to-file": {
+			"fontCharacter": "\\0431",
+			"fontId": "fluent-icons"
+		},
+		"symbol-reference": {
+			"fontCharacter": "\\0431",
+			"fontId": "fluent-icons"
+		},
+		"symbol-folder": {
+			"fontCharacter": "\\0432",
+			"fontId": "fluent-icons"
+		},
+		"folder": {
+			"fontCharacter": "\\0432",
+			"fontId": "fluent-icons"
+		},
+		"beaker": {
+			"fontCharacter": "\\0433",
+			"fontId": "fluent-icons"
+		},
+		"lock": {
+			"fontCharacter": "\\0434",
+			"fontId": "fluent-icons"
+		},
+		"unlock": {
+			"fontCharacter": "\\0435",
+			"fontId": "fluent-icons"
+		},
+		"hubot": {
+			"fontCharacter": "\\0437",
+			"fontId": "fluent-icons"
+		},
+		"feedback": {
+			"fontCharacter": "\\0438",
+			"fontId": "fluent-icons"
+		},
+		"bell-dot": {
+			"fontCharacter": "\\0439",
+			"fontId": "fluent-icons"
+		},
+		"layout": {
+			"fontCharacter": "\\043a",
+			"fontId": "fluent-icons"
+		},
+		"play": {
+			"fontCharacter": "\\2729",
+			"fontId": "fluent-icons"
+		},
+		"layout-sidebar-left-off": {
+			"fontCharacter": "\\19",
+			"fontId": "custom-icons"
+		},
+		"layout-sidebar-right-off": {
+			"fontCharacter": "\\1B",
+			"fontId": "custom-icons"
+		},
+		"layout-panel-off": {
+			"fontCharacter": "\\17",
+			"fontId": "custom-icons"
+		},
+		"layout-sidebar-left": {
+			"fontCharacter": "\\1A",
+			"fontId": "custom-icons"
+		},
+		"layout-sidebar-right": {
+			"fontCharacter": "\\1C",
+			"fontId": "custom-icons"
+		},
+		"layout-panel": {
+			"fontCharacter": "\\18",
+			"fontId": "custom-icons"
+		}
+	}
+}
