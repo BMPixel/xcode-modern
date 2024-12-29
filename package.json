@@ -1,7 +1,7 @@
 {
   "name": "xcode-modern",
   "displayName": "xcode-modern",
-  "description": "",
+  "description": "Modern XCode-inspired theme with native macOS aesthetics, semantic highlighting, and clean UI design for both light and dark modes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
