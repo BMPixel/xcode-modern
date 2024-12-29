@@ -1,8 +1,22 @@
 {
   "name": "xcode-modern",
-  "displayName": "xcode-modern",
+  "publisher": "wenbopan",
+  "displayName": "XCode Modern",
   "description": "Modern XCode-inspired theme with native macOS aesthetics, semantic highlighting, and clean UI design for both light and dark modes",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BMPixel/xcode-modern"
+  },
+  "bugs": {
+    "url": "https://github.com/BMPixel/xcode-modern/issues"
+  },
+  "homepage": "https://github.com/BMPixel/xcode-modern#readme",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#FFFFFF",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
