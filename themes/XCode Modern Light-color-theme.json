@@ -173,7 +173,7 @@
 		{
 			"scope": [
 				"string",
-				"punctuation.definition.string"
+				"punctuation.definition.string",
 			],
 			"settings": {
 				"foreground": "#d0402d"
@@ -460,6 +460,8 @@
 		{
 			"scope": [
 				"support.type.property-name.json",
+				"punctuation.support.type.property-name.begin.json",
+				"punctuation.support.type.property-name.end.json"
 			],
 			"settings": {
 				"foreground": "#0451A5"
